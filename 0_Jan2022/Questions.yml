@@ -1,0 +1,296 @@
+Questions:
+-
+    Ref: S1
+    Text: How satisfied are you with InvenTree?
+    Kind: Rating
+    Required: true
+    Multiple: false
+    Subtext: 
+    Answers: 
+    Details: 
+    - 1 - Very Unsatisfied
+    - 6 - Very Satisfied
+-
+    Ref: S2
+    Text: User Category*
+    Kind: Selection
+    Required: true
+    Multiple: false
+    Subtext: What description fits you / your organisation best?
+    Answers:
+    - Hobbyist - for myself
+    - Hobbyist - open source / community projects
+    - Hobbyist - sometimes commercial
+    - One-Person company
+    - Small / medium business
+    - Enterprise\n- Education
+    Details: 
+-
+    Ref: S3
+    Text: Users in organisation
+    Kind: Selection
+    Required: true
+    Multiple: false
+    Subtext: How many people are there in total in your organisation / hackerspace / company?
+    Answers:
+    - 1
+    - 2-5
+    - 6-10
+    - 11-50
+    - 51-100
+    - 101+
+    Details: 
+-
+    Ref: S4
+    Text: Users in InvenTree
+    Kind: Selection
+    Required: true
+    Multiple: false
+    Subtext: How many user are using / have an account in InvenTree?
+    Answers:
+    - 1
+    - 2-5
+    - 6-10
+    - 11-50
+    - 51-100
+    - 101+
+    Details: 
+-
+    Ref: S5
+    Text: Deployment method*
+    Kind: Selection
+    Required: true
+    Multiple: true
+    Subtext: How do you deploy your instance(s)
+    Answers:
+    - Bare metal - onsite
+    - Bare metal - VM/VPS in cloud
+    - Docker (Docker compose)
+    - Builtin-Docker (in a NAS e.g.)
+    - Kubernetes - kubectl
+    - Kubernetes - Rancher
+    - Kubernetes - Portainer"
+    Details: 
+-
+    Ref: S6
+    Text: What branch / release do you use?
+    Kind: Selection
+    Required: true
+    Multiple: false
+    Subtext: Answer for main production system if you use multiple
+    Answers:
+    - Master / latest
+    - Stable / stable
+    - Pinned version (0.5.x)
+    - Pinned version (lower than 0.5.0)
+    Details: 
+-
+    Ref: S7
+    Text: Is your production instance reachable from the public internet?
+    Kind: Selection
+    Required: true
+    Multiple: false
+    Subtext: 
+    Answers:
+    - Yes
+    - No
+    - I do not know
+    Details: 
+-
+    Ref: S8
+    Text: User language
+    Kind: Selection
+    Required: true
+    Multiple: true
+    Subtext: What languages do you speak?
+    Answers:
+    - English
+    - German
+    - Chinese Simplified
+    - Dutch
+    - French
+    - Greek
+    - Hebrew
+    - Indonesian
+    - Italian
+    - Japanese
+    - Korean
+    - Norwegian
+    - Polish
+    - Portugese
+    - Russian
+    - Spanish
+    - Spanisch, Mexico
+    - Swedish
+    - Thai
+    - Turkish
+    - Vietnamese
+    Details: 
+-
+    Ref: S9
+    Text: InvenTree language
+    Kind: Selection
+    Required: true
+    Multiple: true
+    Subtext: In what language do you use InvenTree?
+    Answers:
+    - English
+    - German
+    - Chinese Simplified
+    - Dutch
+    - French
+    - Greek
+    - Hebrew
+    - Indonesian
+    - Italian
+    - Japanese
+    - Korean
+    - Norwegian
+    - Polish
+    - Portugese
+    - Russian
+    - Spanish
+    - Spanisch, Mexico
+    - Swedish
+    - Thai
+    - Turkish
+    - Vietnamese
+    Details: 
+-
+    Ref: S10
+    Text: Translation contributions
+    Kind: Selection
+    Required: false
+    Multiple: false
+    Subtext: Would you like to translate InvenTree in another language?
+    Answers:
+    - Yes, I already contribute to translation
+    - Yes, I would like to contribute but don't know how
+    - No, I do not wish to contribute
+    - No, the current language offering is fine
+    Details: 
+-
+    Ref: S11
+    Text: Currently used features
+    Kind: Selection
+    Required: true
+    Multiple: true
+    Subtext: What functions do you / your organization use InvenTree for?
+    Answers:
+    - Parts management
+    - Stock keeping
+    - BOM management
+    - Supplier management
+    - Customer management
+    - Pricing and price history
+    - Order fulfillment
+    - Build management
+    - QA tracking / management
+    - Reporting
+    - Purchasing management
+    - Machine management
+    Details: 
+-
+    Ref: S12
+    Text: Improvement wanted
+    Kind: Selection
+    Required: true
+    Multiple: true
+    Subtext: What areas need the most improvement / where would you like to see development focused (max 3)?
+    Answers:
+    - Parts management
+    - Stock keeping
+    - BOM management
+    - Supplier management
+    - Customer management
+    - Pricing and price history
+    - Order fulfillment
+    - Build management
+    - QA tracking / management
+    - Reporting
+    - Purchasing management
+    - Machine management
+    Details: 
+-
+    Ref: S13
+    Text: Used extension options
+    Kind: Selection
+    Required: true
+    Multiple: true
+    Subtext: What options do you use to integrate / interact / customize InvenTree?
+    Answers:
+    - API
+    - Python Interface
+    - Plugins
+    - InvenTree App
+    - Action Plugins
+    - Barcode Plugins
+    - Reports
+    - Ki-nTree
+    - PK2InvenTree
+    - Custom branch
+    Details: 
+-
+    Ref: S14
+    Text: How did you learn about InvenTree?*
+    Kind: Selection
+    Required: true
+    Multiple: true
+    Subtext: 
+    Answers:
+    - InvenTree documentation
+    - InvenTree GitHub
+    - Discord
+    - Social media
+    - News
+    - Search engine
+    - Another Website
+    Details: 
+-
+    Ref: S15
+    Text: Would you recommend InvenTree?*
+    Kind: Rating
+    Required: true
+    Multiple: false
+    Subtext: How likely area you recommend InvenTree to a friend / colleague?
+    Answers: 
+    Details:
+    - 1 - Not likely
+    - 5 - Extremly likely"
+-
+    Ref: S16
+    Text: Have you contributed to InvenTree?
+    Kind: Selection
+    Required: false
+    Multiple: true
+    Subtext: Please select all ways you have contributed to InvenTree if you have
+    Answers:
+    - Added translation
+    - Proofread translation
+    - Submitted bug report
+    - Added feature request
+    - Started discussion
+    - Answered issue / discussion
+    - Submitted code
+    - Reviewed code
+    - Donated / code bounty
+    - Improved documentation
+    Details: 
+-
+    Ref: S17
+    Text: Feedback about the survey
+    Kind: Text
+    Required: false
+    Multiple: false
+    Subtext: Do you want to let us know something about this survey?
+    Answers: 
+    Details: 
+-
+    Ref: S18
+    Text: InvenTree feedback
+    Kind: Text
+    Required: false
+    Multiple: false
+    Subtext: "You can provide us feedback for InvenTree here if you want.\nIf you want to do this in public or would like feedback please use the discussion tab in GitHub."
+    Answers: 
+    Details: 

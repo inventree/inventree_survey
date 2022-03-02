@@ -1,0 +1,288 @@
+Participants:
+-
+    index: P26
+    location: Austria
+    time: 2
+    os: Linux, x86_64
+    os_sys: Linux
+    os_ver: x86_64
+    browser: Chrome, 98
+    browser_name: Chrome
+    browser_ver: 98
+    date: Mar 2
+-
+    index: P25
+    location: United States
+    time: 3
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Firefox, 97
+    browser_name: Firefox
+    browser_ver: 97
+    date: Mar 1
+-
+    index: P24
+    location: United States
+    time: 2
+    os: Mac OS, 10.15.7
+    os_sys: Mac OS
+    os_ver: 10.15.7
+    browser: Chrome, 98
+    browser_name: Chrome
+    browser_ver: 98
+    date: Feb 28
+-
+    index: P23
+    location: Germany
+    time: 2
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Firefox, 97
+    browser_name: Firefox
+    browser_ver: 97
+    date: Feb 28
+-
+    index: P22
+    location: United States
+    time: 3
+    os: Mac OS, 10.15
+    os_sys: Mac OS
+    os_ver: 10.15
+    browser: Firefox, 97
+    browser_name: Firefox
+    browser_ver: 97
+    date: Feb 27
+-
+    index: P21
+    location: United States
+    time: 4
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Chrome, 98
+    browser_name: Chrome
+    browser_ver: 98
+    date: Feb 27
+-
+    index: P20
+    location: Singapore
+    time: 3
+    os: Mac OS, 10.15.7
+    os_sys: Mac OS
+    os_ver: 10.15.7
+    browser: Chrome, 98
+    browser_name: Chrome
+    browser_ver: 98
+    date: Feb 26
+-
+    index: P19
+    location: Germany
+    time: 19
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Firefox, 97
+    browser_name: Firefox
+    browser_ver: 97
+    date: Feb 25
+
+-
+    index: P18
+    location: Sweden
+    time: 7
+    os: Android, 10
+    os_sys: Android
+    os_ver: 10
+    browser: Edge, 98
+    browser_name: Edge
+    browser_ver: 98
+    date: Feb 23
+-
+    index: P17
+    location: United States
+    time: 5
+    os: Mac OS, 10.15.6
+    os_sys: Mac OS
+    os_ver: 10.15.6
+    browser: Safari, 15
+    browser_name: Safari
+    browser_ver: 15
+    date: Feb 22
+-
+    index: P16
+    location: United States
+    time: 5
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Edge, 98
+    browser_name: Edge
+    browser_ver: 98
+    date: Feb 22
+-
+    index: P15
+    location: Germany
+    time: 2
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Chrome, 98
+    browser_name: Chrome
+    browser_ver: 98
+    date: Feb 21
+-
+    index: P14
+    location: Belgium
+    time: 4
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Chrome, 98
+    browser_name: Chrome
+    browser_ver: 98
+    date: Feb 21
+-
+    index: P13
+    location: Norway
+    time: 5
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Chrome, 98
+    browser_name: Chrome
+    browser_ver: 98
+    date: Feb 21
+-
+    index: P12
+    location: Italy
+    time: 2
+    os: Android, 12
+    os_sys: Android
+    os_ver: 12
+    browser: Chrome, 98
+    browser_name: Chrome
+    browser_ver: 98
+    date: Feb 21
+-
+    index: P11
+    location: Germany
+    time: 11
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Firefox, 96
+    browser_name: Firefox
+    browser_ver: 96
+    date: Feb 21
+-
+    index: P10
+    location: Australia
+    time: 2
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Chrome, 98
+    browser_name: Chrome
+    browser_ver: 98
+    date: Feb 21
+-
+    index: P9
+    location: Canada
+    time: 5
+    os: Linux, x86_64
+    os_sys: Linux
+    os_ver: x86_64
+    browser: Chrome, 90
+    browser_name: Chrome
+    browser_ver: 90
+    date: Feb 21
+-
+    index: P8
+    location: United States
+    time: 3
+    os: Mac OS, 10.15.7
+    os_sys: Mac OS
+    os_ver: 10.15.7
+    browser: Safari, 15
+    browser_name: Safari
+    browser_ver: 15
+    date: Feb 15
+-
+    index: P7
+    location: Germany
+    time: 6
+    os: Ubuntu,
+    os_sys: Ubuntu
+    os_ver:
+    browser: Firefox, 96
+    browser_name: Firefox
+    browser_ver: 96
+    date: Feb 11
+-
+    index: P6
+    location: Belgium
+    time: 3
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Firefox, 96
+    browser_name: Firefox
+    browser_ver: 96
+    date: Feb 11
+-
+    index: P5
+    location: Italy
+    time: 11
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Chrome, 97
+    browser_name: Chrome
+    browser_ver: 97
+    date: Feb 7
+-
+    index: P4
+    location: Austria
+    time: 4
+    os: Android, 11
+    os_sys: Android
+    os_ver: 11
+    browser: Firefox, 96
+    browser_name: Firefox
+    browser_ver: 96
+    date: Feb 2
+-
+    index: P3
+    location: Austria
+    time: 2
+    os: Mac OS, 10.15.6
+    os_sys: Mac OS
+    os_ver: 10.15.6
+    browser: Safari, 15
+    browser_name: Safari
+    browser_ver: 15
+    date: Jan 20
+-
+    index: P2
+    location: Australia
+    time: 2
+    os: Linux, x86_64
+    os_sys: Linux
+    os_ver: x86_64
+    browser: Opera, 82
+    browser_name: Opera
+    browser_ver: 82
+    date: Jan 20
+-
+    index: P1
+    location: Russia
+    time: 5
+    os: Windows, 10
+    os_sys: Windows
+    os_ver: 10
+    browser: Firefox, 96
+    browser_name: Firefox
+    browser_ver: 96
+    date: Jan 20
