@@ -1,0 +1,138 @@
+Ref;Text;Kind;Required;Multiple;Subtext;Answers;Details
+S1;How satisfied are you with InvenTree?;Rating;true;false;;;"1 - Very Unsatisfied
+6 - Very Satisfied"
+S2;User Category*;Selection;true;false;What description fits you / your organisation best?;"- Hobbyist - for myself
+- Hobbyist - open source / community projects
+- Hobbyist - sometimes commercial
+- One-Person company
+- Small / medium business
+- Enterprise
+- Education";
+S3;Users in organisation;Selection;true;false;How many people are there in total in your organisation / hackerspace / company?;"- 1
+- 2-5
+- 6-10
+- 11-50
+- 51-100
+- 101+";
+S4;Users in InvenTree;Selection;true;false;How many user are using / have an account in InvenTree?;"- 1
+- 2-5
+- 6-10
+- 11-50
+- 51-100
+- 101+";
+S5;Deployment method*;Selection;true;true;How do you deploy your instance(s);"- Bare metal - onsite
+- Bare metal - VM/VPS in cloud
+- Docker (Docker compose)
+- Builtin-Docker (in a NAS e.g.)
+- Kubernetes - kubectl
+- Kubernetes - Rancher
+- Kubernetes - Portainer";
+S6;What branch / release do you use?;Selection;true;false;Answer for main production system if you use multiple;"- Master / latest
+- Stable / stable
+- Pinned version (0.5.x)
+- Pinned version (lower than 0.5.0)";
+S7;Is your production instance reachable from the public internet?;Selection;true;false;;"- Yes
+- No
+- I do not know";
+S8;User language;Selection;true;true;What languages do you speak?;"- English
+- German
+- Chinese Simplified
+- Dutch
+- French
+- Greek
+- Hebrew
+- Indonesian
+- Italian
+- Japanese
+- Korean
+- Norwegian
+- Polish
+- Portugese
+- Russian
+- Spanish
+- Spanisch, Mexico
+- Swedish
+- Thai
+- Turkish
+- Vietnamese";
+S9;InvenTree language;Selection;true;true;In what language do you use InvenTree?;"- English
+- German
+- Chinese Simplified
+- Dutch
+- French
+- Greek
+- Hebrew
+- Indonesian
+- Italian
+- Japanese
+- Korean
+- Norwegian
+- Polish
+- Portugese
+- Russian
+- Spanish
+- Spanisch, Mexico
+- Swedish
+- Thai
+- Turkish
+- Vietnamese";
+S10;Translation contributions;Selection;false;false;Would you like to translate InvenTree in another language?;"- Yes, I already contribute to translation
+- Yes, I would like to contribute but don't know how
+- No, I do not wish to contribute
+- No, the current language offering is fine";
+S11;Currently used features;Selection;true;true;What functions do you / your organization use InvenTree for?;"- Parts management
+- Stock keeping
+- BOM management
+- Supplier management
+- Customer management
+- Pricing and price history
+- Order fulfillment
+- Build management
+- QA tracking / management
+- Reporting
+- Purchasing management
+- Machine management";
+S12;Improvement wanted;Selection;true;true;What areas need the most improvement / where would you like to see development focused (max 3)?;"- Parts management
+- Stock keeping
+- BOM management
+- Supplier management
+- Customer management
+- Pricing and price history
+- Order fulfillment
+- Build management
+- QA tracking / management
+- Reporting
+- Purchasing management
+- Machine management";
+S13;Used extension options;Selection;true;true;What options do you use to integrate / interact / customize InvenTree?;"- API
+- Python Interface
+- Plugins
+- InvenTree App
+- Action Plugins
+- Barcode Plugins
+- Reports
+- Ki-nTree
+- PK2InvenTree
+- Custom branch";
+S14;How did you learn about InvenTree?*;Selection;true;true;;"- InvenTree documentation
+- InvenTree GitHub
+- Discord
+- Social media
+- News
+- Search engine
+- Another Website";
+S15;Would you recommend InvenTree?*;Rating;true;false;How likely area you recommend InvenTree to a friend / colleague?;;"1 - Not likely
+5 - Extremly likely"
+S16;Have you contributed to InvenTree?;Selection;false;true;Please select all ways you have contributed to InvenTree if you have;"- Added translation
+- Proofread translation
+- Submitted bug report
+- Added feature request
+- Started discussion
+- Answered issue / discussion
+- Submitted code
+- Reviewed code
+- Donated / code bounty
+- Improved documentation";
+S17;Feedback about the survey;Text;false;false;Do you want to let us know something about this survey?;;
+S18;InvenTree feedback;Text;false;false;"You can provide us feedback for InvenTree here if you want.
+If you want to do this in public or would like feedback please use the discussion tab in GitHub.";;

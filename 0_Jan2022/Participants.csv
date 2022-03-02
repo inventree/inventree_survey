@@ -1,0 +1,27 @@
+index;location;time;os;os_sys;os_ver;browser;browser_name;browser_ver;date
+P26;Austria;2;Linux, x86_64;Linux;x86_64;Chrome, 98;Chrome;98;Mar 2
+P25;United States;3;Windows, 10;Windows;10;Firefox, 97;Firefox;97;Mar 1
+P24;United States;2;Mac OS, 10.15.7;Mac OS;10.15.7;Chrome, 98;Chrome;98;Feb.28
+P23;Germany;2;Windows, 10;Windows;10;Firefox, 97;Firefox;97;Feb.28
+P22;United States;3;Mac OS, 10.15;Mac OS;Okt.15;Firefox, 97;Firefox;97;Feb.27
+P21;United States;4;Windows, 10;Windows;10;Chrome, 98;Chrome;98;Feb.27
+P20;Singapore;3;Mac OS, 10.15.7;Mac OS;10.15.7;Chrome, 98;Chrome;98;Feb.26
+P19;Germany;19;Windows, 10;Windows;10;Firefox, 97;Firefox;97;Feb.25
+P18;Sweden;7;Android, 10;Android;10;Edge, 98;Edge;98;Feb.23
+P17;United States;5;Mac OS, 10.15.6;Mac OS;10.15.6;Safari, 15;Safari;15;Feb.22
+P16;United States;5;Windows, 10;Windows;10;Edge, 98;Edge;98;Feb.22
+P15;Germany;2;Windows, 10;Windows;10;Chrome, 98;Chrome;98;Feb.21
+P14;Belgium;4;Windows, 10;Windows;10;Chrome, 98;Chrome;98;Feb.21
+P13;Norway;5;Windows, 10;Windows;10;Chrome, 98;Chrome;98;Feb.21
+P12;Italy;2;Android, 12;Android;12;Chrome, 98;Chrome;98;Feb.21
+P11;Germany;11;Windows, 10;Windows;10;Firefox, 96;Firefox;96;Feb.21
+P10;Australia;2;Windows, 10;Windows;10;Chrome, 98;Chrome;98;Feb.21
+P9;Canada;5;Linux, x86_64;Linux;x86_64;Chrome, 90;Chrome;90;Feb.21
+P8;United States;3;Mac OS, 10.15.7;Mac OS;10.15.7;Safari, 15;Safari;15;Feb.15
+P7;Germany;6;Ubuntu,;Ubuntu;;Firefox, 96;Firefox;96;Feb.11
+P6;Belgium;3;Windows, 10;Windows;10;Firefox, 96;Firefox;96;Feb.11
+P5;Italy;11;Windows, 10;Windows;10;Chrome, 97;Chrome;97;Feb.07
+P4;Austria;4;Android, 11;Android;11;Firefox, 96;Firefox;96;Feb.02
+P3;Austria;2;Mac OS, 10.15.6;Mac OS;10.15.6;Safari, 15;Safari;15;Jan 20
+P2;Australia;2;Linux, x86_64;Linux;x86_64;Opera, 82;Opera;82;Jan 20
+P1;Russia;5;Windows, 10;Windows;10;Firefox, 96;Firefox;96;Jan 20
