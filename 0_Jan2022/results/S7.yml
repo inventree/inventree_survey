@@ -1,0 +1,13 @@
+S7:
+    -
+        index: 1
+        data: No
+        total: 19
+    -
+        index: 0
+        data: Yes
+        total: 7
+    -
+        index: 2
+        data: I do not know
+        total: 0

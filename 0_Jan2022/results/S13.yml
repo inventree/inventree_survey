@@ -1,0 +1,45 @@
+S13:
+    -
+        index: 3
+        data: InvenTree App
+        total: 15
+    -
+        index: 0
+        data: API
+        total: 11
+    -
+        index: 1
+        data: Python Interface
+        total: 10
+    -
+        index: 7
+        data: Ki-nTree
+        total: 7
+    -
+        index: 2
+        data: Plugins
+        total: 6
+    -
+        index: 9
+        data: Custom branch
+        total: 3
+    -
+        index: 5
+        data: Barcode Plugins
+        total: 3
+    -
+        index: 10
+        data: Other
+        total: 1
+    -
+        index: 6
+        data: Reports
+        total: 1
+    -
+        index: 8
+        data: PK2InvenTree
+        total: 0
+    -
+        index: 4
+        data: Action Plugins
+        total: 0

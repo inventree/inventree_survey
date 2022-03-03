@@ -1,0 +1,29 @@
+S2:
+    - 
+        index: 4
+        data: Small / medium business
+        total: 9
+    -
+        index: 0
+        data: Hobbyist - for myself
+        total: 7
+    -
+        index: 2
+        data: Hobbyist - sometimes commercial
+        total: 4
+    -
+        index: 1
+        data: Hobbyist - open source / community projects
+        total: 4
+    -
+        index: 5
+        data: Enterprise
+        total: 1
+    -
+        index: 3
+        data: One-Person company
+        total: 1
+    -
+        index: 6
+        data: Education
+        total: 0

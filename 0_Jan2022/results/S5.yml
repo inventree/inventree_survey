@@ -1,0 +1,33 @@
+S5:
+    -
+        index: 2
+        data: Docker (docker compose)
+        total: 14
+    -
+        index: 0
+        data: Bare metal - onsite
+        total: 8
+    -
+        index: 7
+        data: Other
+        total: 3
+    -
+        index: 1
+        data: Bare metal - VM/VPS in cloud
+        total: 3
+    -
+        index: 6
+        data: Kubernetes - Portainer
+        total: 1
+    -
+        index: 4
+        data: Kubernetes - kubectl
+        total: 1
+    -
+        index: 3
+        data: Builtin-Docker (in a NAS e.g.)
+        total: 1
+    -
+        index: 5
+        data: Kubernetes - Rancher
+        total: 0

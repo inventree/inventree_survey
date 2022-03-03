@@ -1,0 +1,53 @@
+S11:
+    -
+        index: 2
+        data: BOM management
+        total: 17
+    -
+        index: 7
+        data: Build management
+        total: 9
+    -
+        index: 4
+        data: Customer management
+        total: 3
+    -
+        index: 11
+        data: Machine management
+        total: 3
+    -
+        index: 6
+        data: Order fulfillment
+        total: 7
+    -
+        index: 12
+        data: Other
+        total: 1
+    -
+        index: 0
+        data: Parts management
+        total: 26
+    -
+        index: 5
+        data: Pricing and price history
+        total: 10
+    -
+        index: 10
+        data: Purchasing management
+        total: 12
+    -
+        index: 8
+        data: QA tracking / management
+        total: 5
+    -
+        index: 9
+        data: Reporting
+        total: 4
+    -
+        index: 1
+        data: Stock keeping
+        total: 23
+    -
+        index: 3
+        data: Supplier management
+        total: 11

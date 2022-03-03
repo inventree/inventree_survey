@@ -1,0 +1,25 @@
+S4:
+    -
+        index: 0
+        data: 1
+        total: 14
+    -
+        index: 1
+        data: 2-5
+        total: 8
+    -
+        index: 3
+        data: 11-50
+        total: 2
+    -
+        index: 2
+        data: 6-10
+        total: 2
+    -
+        index: 5
+        data: 101+
+        total: 0
+    -
+        index: 4
+        data: 51-100
+        total: 0

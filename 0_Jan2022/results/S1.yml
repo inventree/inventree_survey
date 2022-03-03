@@ -1,0 +1,31 @@
+S1:
+    -
+        index: 4
+        data: 5 - Satisfied
+        rating: 75
+        total: 15
+    -
+        index: 5
+        data: 6 - Very Satisfied
+        rating: 36
+        total: 6
+    -
+        index: 3
+        data: 4 - Somewhat Satisfied
+        rating: 12
+        total: 3
+    -
+        index: 1
+        data: 2 - Unsatisfied
+        rating: 2
+        total: 1
+    -
+        index: 0
+        data: 1 - Very Unsatisfied
+        rating: 1
+        total: 1
+    -
+        index: 2
+        data: 3 - Somewhat Unsatisfied
+        rating: 0
+        total: 0

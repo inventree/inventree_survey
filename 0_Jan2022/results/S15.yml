@@ -1,0 +1,26 @@
+S15:
+    -
+        index: 4
+        data: 5 - Extremely likely
+        rating: 65
+        total: 13
+    -
+        index: 3
+        data: 4 - Very likely
+        rating: 36
+        total: 9
+    -
+        index: 2
+        data: 3 - Somewhat likely
+        rating: 12
+        total: 4
+    -
+        index: 1
+        data: 2 - Not so likely
+        rating: 0
+        total: 0
+    -
+        index: 0
+        data: 1 - Not at all likely
+        rating: 0
+        total: 0
