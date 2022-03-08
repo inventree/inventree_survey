@@ -1,0 +1,89 @@
+S9:
+    -
+        index: 0
+        data: English
+        total: 23
+    -
+        index: 1
+        data: German
+        total: 4
+    -
+        index: 8
+        data: Italian
+        total: 1
+    -
+        index: 3
+        data: Dutch
+        total: 1
+    -
+        index: 21
+        data: Other
+        total: 0
+    -
+        index: 20
+        data: Vietnamese
+        total: 0
+    -
+        index: 19
+        data: Turkish
+        total: 0
+    -
+        index: 18
+        data: Thai
+        total: 0
+    -
+        index: 17
+        data: Swedish
+        total: 0
+    -
+        index: 16
+        data: Spanisch, Mexico
+        total: 0
+    -
+        index: 15
+        data: Spanish
+        total: 0
+    -
+        index: 14
+        data: Russian
+        total: 0
+    -
+        index: 13
+        data: Portugese
+        total: 0
+    -
+        index: 12
+        data: Polish
+        total: 0
+    -
+        index: 11
+        data: Norwegian
+        total: 0
+    -
+        index: 10
+        data: Korean
+        total: 0
+    -
+        index: 9
+        data: Japanese
+        total: 0
+    -
+        index: 7
+        data: Indonesian
+        total: 0
+    -
+        index: 6
+        data: Hebrew
+        total: 0
+    -
+        index: 5
+        data: Greek
+        total: 0
+    -
+        index: 4
+        data: French
+        total: 0
+    -
+        index: 2
+        data: Chinese Simplified
+        total: 0

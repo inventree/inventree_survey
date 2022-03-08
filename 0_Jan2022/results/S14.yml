@@ -1,0 +1,29 @@
+S14:
+    -
+        index: 5
+        data: Search engine
+        total: 12
+    -
+        index: 1
+        data: InvenTree GitHub
+        total: 12
+    -
+        index: 0
+        data: InvenTree documentation
+        total: 7
+    -
+        index: 6
+        data: Another Website
+        total: 4
+    -
+        index: 2
+        data: Discord
+        total: 3
+    -
+        index: 3
+        data: Social media
+        total: 1
+    -
+        index: 4
+        data: News
+        total: 0

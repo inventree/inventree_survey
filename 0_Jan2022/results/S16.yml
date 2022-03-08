@@ -1,0 +1,45 @@
+S16:
+    -
+        index: 2
+        data: Submitted bug report
+        total: 10
+    -
+        index: 3
+        data: Added feature request
+        total: 7
+    -
+        index: 0
+        data: Added translation
+        total: 7
+    -
+        index: 6
+        data: Submitted code
+        total: 6
+    -
+        index: 9
+        data: Improved documentation
+        total: 4
+    -
+        index: 1
+        data: Proofread translation
+        total: 4
+    -
+        index: 5
+        data: Answered issue / discussion
+        total: 3
+    -
+        index: 4
+        data: Started discussion
+        total: 3
+    -
+        index: 7
+        data: Reviewed code
+        total: 2
+    -
+        index: 8
+        data: Donated / code bounty
+        total: 1
+    -
+        index: 10
+        data: Other
+        total: 0

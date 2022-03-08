@@ -1,0 +1,53 @@
+S12:
+    -
+        index: 0
+        data: Parts management
+        total: 11
+    -
+        index: 1
+        data: Stock keeping
+        total: 10
+    -
+        index: 2
+        data: BOM management
+        total: 9
+    -
+        index: 5
+        data: Pricing and price history
+        total: 7
+    -
+        index: 12
+        data: Other
+        total: 6
+    -
+        index: 9
+        data: Reporting
+        total: 4
+    -
+        index: 11
+        data: Machine management
+        total: 3
+    -
+        index: 3
+        data: Supplier management
+        total: 3
+    -
+        index: 10
+        data: Purchasing management
+        total: 2
+    -
+        index: 8
+        data: QA tracking / management
+        total: 2
+    -
+        index: 7
+        data: Build management
+        total: 1
+    -
+        index: 6
+        data: Order fulfillment
+        total: 0
+    -
+        index: 4
+        data: Customer management
+        total: 0

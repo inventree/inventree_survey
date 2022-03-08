@@ -1,0 +1,17 @@
+S10:
+    -
+        index: 3
+        data: No, the current language offering is fine
+        total: 14
+    -
+        index: 0
+        data: Yes, I already contribute to translation
+        total: 7
+    -
+        index: 1
+        data: Yes, I would like to contribute but don't know how
+        total: 4
+    -
+        index: 2
+        data: No, I do not wish to contribute
+        total: 1

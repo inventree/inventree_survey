@@ -1,0 +1,17 @@
+S6:
+    -
+        index: 1
+        data: Stable / stable
+        total: 18
+    -
+        index: 0
+        data: Master / latest
+        total: 7
+    -
+        index: 2
+        data: Pinned version (0.5.x)
+        total: 1
+    -
+        index: 3
+        data: Pinned version (lower than 0.5.0)
+        total: 0
