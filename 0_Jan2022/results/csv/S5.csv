@@ -1,0 +1,9 @@
+index,data,total
+2,Docker (docker compose),14
+0,Bare metal - onsite,8
+7,Other,3
+1,Bare metal - VM/VPS in cloud,3
+6,Kubernetes - Portainer,1
+4,Kubernetes - kubectl,1
+3,Builtin-Docker (in a NAS e.g.),1
+5,Kubernetes - Rancher,0
